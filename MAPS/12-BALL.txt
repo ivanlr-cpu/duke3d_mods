@@ -1,0 +1,82 @@
+======================================================================
+Title                 : 12-ball version 6 (based on 8-ball - updated 2025!)
+Filename              : 13-BALL.MAP
+Author                : Ivan Linhares
+E-mail                : ivanrolim@hotmail.com, ivanrolim@yahoo.com.br 
+                        or MY ICQ 5577477
+Web Page              : http://geocities.com/ivanrolim
+Misc. Author Info     : I´m a 'mediocr'e C programmer who prefer build(tm) games,
+                        interested in voxel programming, map reviews, new build 
+                        tricks and duke3d mods.
+
+Changelog		: Removed EXPANDER, as it makes this level VERY HARD to cope with.
+
+Other Levels        : beach2.map (aka D-hotels), 
+                        10-ball.map, maracana.map, d-chalet.map, christ-7c.map 
+
+                        I love to be creative and make good-aligned and complex
+                        maps, but not like Bob's yet :) Also, if duke has more
+                        ways to make a map and let creativity flows (like textures
+                        and sounds inside the .MAP file), i'm sure duke3d will be
+                        re-born.
+
+Description           : This is an insteresting map. Duke gets trapped in one of his
+                        mission levels of episode3 and has to get out of it asap. It´s
+                        not intended to be played in single game yet, but it was intended
+                        on the first place. So play it in the dukematch and enjoy it :) 
+                        (UPDATE): Bugs were fixed (light switches, a new window to be hidden in,
+                        vases, new duke sounds - try to find out where you can press in the wall or                       
+                        certain grate textures, it´s like using a new RTS sound !!). Also, the EXPANDER
+                        weapon is now supported! 11-ball is complete for now, not more updates!
+
+History               : Duke3d were in a house of common scientist (filme ´Querida, encolhi as
+                        crianças!´), where his potent shrinker gun got him sized down! He got
+                        trapped in the games room ever since. Everything is nice and interesting enough,
+                        as duke ´normal size´ is so tiny in relation to the huge place. Further
+                        shrinking is possible, though! The updated level is because many people wanted
+                        the expander weapon, and more design objects (like vases)
+			
+Additional Credits To : Rodrigo Killer for some ideas and testing.
+=======================================================================
+
+* Play Information *
+
+Episode and Level #    : External Map (default e1l8.map)
+Single Player          : Not yet, I don´t think it´s necessary
+DukeMatch 2-8 Player   : Yes!!! And Bots are nice
+Cooperative 2-8 Player : Are you sure?
+Difficulty Settings    : Not implemented
+Plutonium, Atomic 1.5  : Required! (sorry, that´s because of textures and new duke 
+			 standard)
+New Art                : Was not necessary                 
+New Music              : Was not necessary
+New Sound Effects      : Was not necessary
+New .CON Files         : Was not necessary
+Demos Replaced         : No
+
+=====================================================================
+
+* Construction *
+
+Base                   : The old very good 8-Ball
+Level Editor(s) Used   : BUILD, of course ;)
+Art Editor(s) Used     : None
+Construction Time      : about 20 hours
+
+Still Known Bugs:       Some blinking when getting inside the holes 
+                        or getting out of them. It´s 
+                        normal because of limited duke3d enginece
+    
+* Where to get this MAP file *
+
+File location          : http://geoticies.com/ivanrolim and ask me!
+                         
+=====================================================================
+
+*Important Information*
+
+Installation           : Install in the current duke3d dir and type duke3d -level 10-ball
+Important Notes        : This level gets boting with only 2 people but still enjoyable for an hour
+Advice                 : Let´s make cool effects with the duke engine and make illusions of endless ideas!
+
+======================================================================

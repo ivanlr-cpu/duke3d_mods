@@ -1,0 +1,112 @@
+======================================================================
+Title                 : CHRISTUS SCHOOL version 3 (updated 2003!)
+Filename              : CHRISTUS.MAP (Atualizada para versão 7c em maio 2025)
+Author                : Ivan Linhares
+E-mail                : ivanrolim@hotmail.com, ivanrolim@yahoo.com.br 
+                        or MY ICQ 5577477
+Web Page              : http://geocities.com/ivanrolim
+Misc. Author Info     : I´m a 'mediocre' C programmer who prefer build(tm) games,
+                        interested in voxel programming, map reviews, new build 
+                        tricks.
+
+Other Levels        beach2.map (aka D-hotels), 
+                        12-ball.map, maracana.map, d-chalet.map 
+
+                        I love to be creative and make good-aligned and complex
+                        maps, but not like Bob's yet :) Also, if duke has more
+                        ways to make a map and let creativity flows (like textures
+                        and sounds inside the .MAP file), i'm sure duke3d will be
+                        re-born.
+
+Description          This is a map of Christus scholl since 1993-1997, the
+                        best school of Fortaleza-Ceara on Brazil. (updated
+                        1999, 2003 and 2025, maintaining 1997 setup: 
+			That school still exists buth real design changed)
+                        
+                        As I want to keep an endless past dimention, as
+                        I could change this present and future (like with a
+                        time machine), I've kept this golden design as a
+                        'open timegate' for everyone to feel how this college
+                        acted up. 
+
+History               This school exists in Fortaleza before 1970. While enjoying
+                        my life dimention between 90´s generations of people, I´ve
+      			ready to create this map as a way to unleash another dimention
+			between real life and another universe one of past and mystery. 
+			It may sounds silly a first, but in short words: this is not a raw map 
+			with no history and heart. It´s amazingly full of action, memories (and new ones)
+			and it would be used as a base for ´dinamic day-night´ environments,
+			as well as addons (ambiance sounds, tricks, new actor movements
+			like teaching a matter in the blackboard and play soccer while
+			in break time...)
+
+			
+Additional Credits To : Rodrigo Killer (Doom, Doom) and Former Friend Level Testers
+=======================================================================
+
+* Play Information *
+
+Episode and Level #    : External Map (default e1l8.map)
+Single Player          : Not yet, I don´t think it´s necessary
+DukeMatch 2-8 Player   : Yes!!! And Bots are nice
+Cooperative 2-8 Player : If my level gets supped inside an episode made by me or another
+			 school levels made by people (american, british schools....)
+Difficulty Settings    : Not implemented
+Plutonium, Atomic 1.5  : Required! (sorry, that´s because of textures and new duke 
+			 standard)
+New Art                : Yes!! Around 32 new textures in TILES015. It will 
+                         be a new standard for me to get the most Modern Seashore Brazil
+							/US/UK-like school/college maps
+                         
+New Music              : Yes, a Chess-like. It´s a calm modern song (sounds familiar?)
+New Sound Effects      : Maybe in the future, if I could reencarnate teacher voices
+New .CON Files         : I´m improving that for a more realistic shool enviroment.
+Demos Replaced         : No
+
+=====================================================================
+
+* Construction *
+
+Base                   : From Scratch :)
+Level Editor(s) Used   : BUILD, of course ;)
+Art Editor(s) Used     : Paint shop pro 4.14
+Construction Time      : about 250 hours !!! (some to find bugs)
+
+Still Known Bugs:       1. Some areas of the map are slow (low frame rate
+ due to large level (I removed various uneeded sectors, but it still slow in a 
+ P166). I recommend playing in a P200-MMX - 640x480, or 486 dx4-100 - 320x200.
+ Of course, more than AMD 500 or even P3, P4, P5.... let this nonsense!
+ It´s a BUG because no programmer get successfull optimizing poligons drawing
+ as the distance increases (fog, texture pixelation...) A lot of games lack these.
+                       2. Some Small Bugs that I used to have , because
+ christus once overtook 360k, when the map reached the max. number of red sectors.
+ I got more than 400k file with no problems. ANYONE with a new duke editor
+ with more available space (x,y) , more than redneck rampage? 
+    
+* Where to get this MAP file *
+
+File location          : Christus is on the NET (old 1997/98 version). So please
+                         replace it with this file
+                         
+=====================================================================
+
+*Important Information*
+
+Installation           : Please check if former tiles015.art is in your directory
+                         before unzipping this file. To play, just type duke3d -map
+			 christus
+Important Notes        : This level is almost finished, as I am trying to get free 
+                         time to tweak some structures, balance weapons, do some
+                         sector-over-sector finishing (like in the church) and
+                         turns it more a `pastgate`
+			 Oh, and stop asking me if I'm fanatic of this 
+                         school/college. :P
+Advice                 : You could love mathematics and linear algebra to
+                         feel the breeze of making games like GTA3 and improve
+                         understanding of this great dimention. 
+
+                         I recommend you to help people in dukeworld, 3drealms
+                         or planet duke, posting your comments, suggestions, new
+                         map tricks and more than that: programming patches and
+                         optmized/cool stuff!
+======================================================================

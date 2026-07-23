@@ -1,0 +1,68 @@
+======================================================================
+THIS LEVEL IS NEITHER MADE BY OR SUPPORTED BY 3D REALMS.
+
+DUKE3D IS ALMOST A ABANDONGAME. I recommend people to go to www.yahoo.com
+or www.altavista.com and put [KEN SILVERMAN SITE]. Build source code launched!
+Also find JONOF DUKe3D PORT, the best one!
+
+If duke3d.exe source code is being delivered, I will be VERY GLAD to optimize it with Jpeg Images, Mp3 22kwz audio (veeery small!) and support for .maps inside .zip files.
+
+Title                 : DUKE's HOTELS (set in Tampa Bay, FLORIDA)
+Filename              : D-CHALET.MAP
+Author                : Ivan Linhares
+E-mail                : ivanrolim@bol.com.br
+ICQ # / MSN           : 5577477, ivanrolim@hotmail.com
+Web Page              : www.geocities.com/ivanrolim
+Misc. Author Info     : I've made many levels from scratch UNLIKE this
+                        one, that isn´t, and three maps I tryed to imitate real world.              
+Other Levels          : 10-ball.map, Christus.map, maracana.map (a stadium), D-chalet
+			
+Description           : Urban area in Tampa Bay, with sounds of helicopters, elevators,
+                        cool breezes, a bar, 4 walking floors of 10+ tall buildigs, nice
+                        effects like waterfall, a neat swimming pool, and moving light.
+
+Additional Credits To : Rodrigo Killer (testing), God, BUILD and Mom´s patience
+                          
+======================================================================
+
+* Play Information *
+
+Episode and Level #    : E1L8, default duke level
+Single Player          : No (it has monsters but no end)
+DukeMatch 2 Players    : Yes!!!! 3 very nice too!!
+Cooperative 2-8 Player : No LOL!
+Difficulty Settings    : Not implemented
+Plutonium Pak Required : Yes (sorry I needed to balance the level with new standard)
+New Art                : No
+New Music              : No
+New Sound Effects      : No
+New .CON Files         : No
+Demos Replaced         : No
+
+=====================================================================
+
+* Construction *
+
+Base                   : From scratch (proud to say!) - It was my second level!
+Level Editor(s) Used   : BUILD
+Art Editor(s) Used     : None
+Construction Time      : About 30 hours (too much time to fix errors)
+Known Bugs/Problems    : Table made of sprites blinks sometimes
+                         To open some doors you need to push them twice
+                         Sometimes you are in the LOFT.
+
+=====================================================================
+
+*Important Information*
+
+Installation           : Just put into your duke3d directory and type
+                         DUKE3d -map d-hotels, or use front-ends (I recommend DukeROCH)
+			 
+Important Notes        : I want to know if people would like to 
+			 see this level expanded (like more floors)
+
+FTP Notes              : I want people that update sites with good maps to rate and to test.
+			 Where´s BOB? I like his Water-EFFECT and I truly like his dedication.
+
+Updated on 2003!
+======================================================================

@@ -1,0 +1,78 @@
+======================================================================
+THIS LEVEL IS NEITHER MADE BY OR SUPPORTED BY 3D REALMS.
+DUKE3D IS ALMOST A ABANDONGAME. I recommend people to go to www.yahoo.com
+or www.altavista.com and put [KEN SILVERMAN SITE]. Build source code launched!
+Also find JONOF DUKe3D PORT, the best one!
+
+If duke3d.exe source code is being delivered, I will be VERY GLAD to optimize it with Jpeg Images, Mp3 22kwz audio (veeery small!) and support for .maps inside .zip files.
+
+Title                 : DUKE's BEACH CHALET (set in AFRICA)
+Filename              : D-CHALET.MAP
+Author                : Ivan Linhares
+E-mail                : ivanrolim@bol.com.br, ivanlins@vento.com.br
+ICQ # / MSN           : 5577477, ivanrolim@hotmail.com
+Web Page              : None so far, tell me any 20mb space free website, I love
+			to research, use better optimized programs, test and rate games
+			share knowledge and such. I will be very pleased with a friend that
+			can make a deal of programming and tips for real programmers.
+Misc. Author Info     : I've made many levels from scratch UNLIKE this
+                        one, that isn´t, and three maps I tryed to imitate real world.              
+Other Levels          : Beach2.map (new update is D-hotels.map, 10-ball.map, Christus.map
+			maracana.map
+
+Description           : Level of duke's Small Beach Chalet. Not so small level, maximum
+			3 players, 2 recommended. This map has LOFTs, ATTICs, garage, a jeep
+			and a car, swimming pool, a radio, a fireplace, using some cool
+			effects in a ´true´ country-beach-forest like map. Duke is in Africa
+			fighting agains ALIENS but he wanted to take a rest in a beach near
+			Britain Colognes in the south...
+
+Additional Credits To : God, BUILD and Mom´s patience
+                          
+======================================================================
+
+* Play Information *
+
+Episode and Level #    : E1L8, default duke level
+Single Player          : No (it has monsters but no end)
+DukeMatch 2 Players    : Yes!!!! 3 TOO!!
+Cooperative 2-8 Player : No (one tiny level with cooperative? Laughts!)
+Difficulty Settings    : Not implemented
+Plutonium Pak Required : Yes (sorry I needed, but some people had even said there is 
+			 new art, hehehe that´s because I´ve used pallete color change and
+			 some rare-used tiles)
+New Art                : No
+New Music              : YES (Modern Classic Theme), dethtool.mid from Sade music?
+New Sound Effects      : No
+New .CON Files         : No
+Demos Replaced         : No
+
+=====================================================================
+
+* Construction *
+
+Base                   : Modified from myhouse.map (veeeeery ooold)
+Level Editor(s) Used   : BUILD
+Art Editor(s) Used     : None
+Construction Time      : About 155 hours (I´VE LOST SO much time only fixing errors)
+Known Bugs/Problems    : Table made of sprites blinks sometimes
+                         To open some doors you need to push them twice
+                         Sometimes you are in the LOFT.
+
+=====================================================================
+
+*Important Information*
+
+Installation           : Just put into your duke3d directory and type
+                         DUKE3d -map d-chalet.map, or use front-ends (I recommend DukeROCH)
+			 
+Important Notes        : Level isn´t finished, since I want to know if people would like to 
+			 see this level expanded (more houses)
+
+FTP Notes              : Maybe this level is outdated around the net. Just 				                 overwrite with this version (I´m not sure, It´s been a long time
+			 I didn´t do maps.
+		       : I want people that update sites with good maps to rate and to test.
+			 Where´s BOB? I like his Water-EFFECT and I truly like his dedication.
+
+Updated on 2003!
+======================================================================
