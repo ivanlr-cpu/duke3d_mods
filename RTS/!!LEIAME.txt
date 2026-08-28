@@ -1,7 +1,0 @@
-RTS criadas por colaboradores, 'revivendo' a era duke3d de 1996.
-Algumas foram encontradas em repositórios antigos e não criadas.
-
-Os de final _0 são versões iniciais (sem tratamento, volume baixo, etc)
-Os de final _1 são versões corrigidas (melhor áudio, volume normalizado)
-Os de final _2 são versões ainda melhores, com frases trocadas a pedido do 'dono' ou colaborador da RTS.
-Os sem final são geralmente RTS clássicas já com volume adequado
